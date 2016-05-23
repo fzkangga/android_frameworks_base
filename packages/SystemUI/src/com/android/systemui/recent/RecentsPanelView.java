@@ -16,7 +16,7 @@
 
 package com.android.systemui.recent;
 
-import android.animation.Animator;
+import android.animation:
 import android.animation.LayoutTransition;
 import android.animation.TimeInterpolator;
 import android.app.ActivityManager;
